@@ -1,0 +1,6 @@
+Package: SocialNetworkAnalyzer
+Type: Package
+Title: A powerful platform for analyzing social network data
+Version: 0.1.0
+Description: A powerful platform for analyzing social network data, including modules for data collection, graph analysis, visualization, and key node identification.
+License: MIT
